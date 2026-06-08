@@ -86,5 +86,4 @@ Compare the original, eroded, and dilated images.
 
 ## Result
 
-Thus, the morphological operations **Erosion** and **Dilation** are successfully implemented using OpenCV. Erosion removes pixels from object boundaries and reduces object size, while Dilation adds pixels to object boundaries and increases object size. These operations are widely used for noise removal, image enhancement, segmentation, and shape analysis in image processing applications.
-```
+Thus, the morphological operations **Erosion** and **Dilation** are successfully implemented using OpenCV.
